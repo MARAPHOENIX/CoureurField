@@ -1,0 +1,10 @@
+<strings>
+    <string id="AppName">CoureurField</string>
+    <string id="label">My Value</string>
+    <string id="pace">PACE</string>
+    <string id="avgpace">AVG PACE</string>
+    <string id="lappace">LAP PACE</string>
+    <string id="hr">HR</string>
+    <string id="distance">DIST</string>
+    <string id="duration">CHRONO</string>
+</strings>

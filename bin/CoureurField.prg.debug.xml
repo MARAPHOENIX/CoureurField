@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="11" pc="268435456" symbol="getInitialView"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="12" pc="268435460" symbol="getInitialView"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="13" pc="268435484" symbol="getInitialView"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="88" pc="268435503" symbol="initialize"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="89" pc="268435507" symbol="initialize"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="92" pc="268435526" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="93" pc="268435530" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="94" pc="268435543" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="95" pc="268435565" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="97" pc="268435596" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="98" pc="268435619" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="100" pc="268435635" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="104" pc="268435648" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="105" pc="268435685" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="106" pc="268435710" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="108" pc="268435747" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="109" pc="268435764" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="110" pc="268435781" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="111" pc="268435794" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="112" pc="268435807" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="114" pc="268435823" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="117" pc="268435856" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="118" pc="268435869" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="123" pc="268435886" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="124" pc="268435890" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="125" pc="268435903" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="126" pc="268435929" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="127" pc="268435955" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="129" pc="268435984" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="130" pc="268436002" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="131" pc="268436020" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="134" pc="268436035" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="135" pc="268436072" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="136" pc="268436109" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="137" pc="268436146" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="138" pc="268436183" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="139" pc="268436220" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="142" pc="268436257" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="143" pc="268436294" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="144" pc="268436331" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="146" pc="268436368" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="147" pc="268436405" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="148" pc="268436421" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="149" pc="268436437" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="151" pc="268436456" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="152" pc="268436485" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="153" pc="268436510" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="154" pc="268436535" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="155" pc="268436572" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="156" pc="268436588" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="157" pc="268436609" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="159" pc="268436631" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="163" pc="268436647" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="168" pc="268436663" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="169" pc="268436680" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="171" pc="268436720" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="173" pc="268436743" symbol="compute"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="177" pc="268436764" symbol="onLayout"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="178" pc="268436768" symbol="onLayout"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="182" pc="268436781" symbol="onShow"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="183" pc="268436785" symbol="onShow"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="184" pc="268436795" symbol="onShow"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="187" pc="268436799" symbol="onHide"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="188" pc="268436803" symbol="onHide"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="191" pc="268436814" symbol="onUpdate"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="192" pc="268436818" symbol="onUpdate"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="193" pc="268436832" symbol="onUpdate"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="196" pc="268436836" symbol="onUpdate"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="198" pc="268436848" symbol="onUpdate"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="199" pc="268436876" symbol="onUpdate"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="201" pc="268436908" symbol="onUpdate"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="204" pc="268436923" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="205" pc="268436927" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="207" pc="268436943" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="208" pc="268436972" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="209" pc="268436996" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="211" pc="268437012" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="213" pc="268437025" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="218" pc="268437055" symbol="setColors"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="219" pc="268437059" symbol="setColors"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="220" pc="268437070" symbol="setColors"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="223" pc="268437089" symbol="setColors"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="224" pc="268437148" symbol="setColors"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="225" pc="268437207" symbol="setColors"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="226" pc="268437266" symbol="setColors"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="227" pc="268437325" symbol="setColors"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="228" pc="268437384" symbol="setColors"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="229" pc="268437443" symbol="setColors"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="235" pc="268437506" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="238" pc="268437510" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="239" pc="268437527" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="240" pc="268437527" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="241" pc="268437538" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="242" pc="268437614" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="244" pc="268437624" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="245" pc="268437711" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="247" pc="268437743" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="248" pc="268437779" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="249" pc="268437811" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="250" pc="268437843" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="251" pc="268437887" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="252" pc="268437910" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="254" pc="268437964" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="255" pc="268437996" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="258" pc="268438028" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="261" pc="268438060" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="262" pc="268438081" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="263" pc="268438102" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="265" pc="268438123" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="267" pc="268438134" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="269" pc="268438210" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="273" pc="268438283" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="274" pc="268438315" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="275" pc="268438332" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="276" pc="268438375" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="279" pc="268438438" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="282" pc="268438481" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="283" pc="268438498" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="285" pc="268438561" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="290" pc="268438625" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="291" pc="268438657" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="294" pc="268438729" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="295" pc="268438761" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="296" pc="268438778" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="297" pc="268438794" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="299" pc="268438858" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="300" pc="268438874" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="304" pc="268438935" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="305" pc="268438935" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="306" pc="268438945" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="307" pc="268438962" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="310" pc="268438975" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="311" pc="268438986" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="312" pc="268438999" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="313" pc="268439010" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="315" pc="268439031" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="318" pc="268439052" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="320" pc="268439062" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="321" pc="268439094" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="324" pc="268439134" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="325" pc="268439134" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="326" pc="268439144" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="327" pc="268439161" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="329" pc="268439174" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="330" pc="268439195" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="331" pc="268439198" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="332" pc="268439214" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="334" pc="268439230" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="335" pc="268439241" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="336" pc="268439251" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="339" pc="268439264" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="340" pc="268439271" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="342" pc="268439315" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="345" pc="268439382" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="347" pc="268439392" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="348" pc="268439409" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="350" pc="268439452" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="355" pc="268439492" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="357" pc="268439524" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="361" pc="268439544" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="365" pc="268439604" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="367" pc="268439647" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="369" pc="268439690" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="370" pc="268439707" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="371" pc="268439750" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="373" pc="268439799" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="379" pc="268439842" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="380" pc="268439878" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="381" pc="268439916" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="384" pc="268439954" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="385" pc="268439971" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="386" pc="268440039" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="387" pc="268440107" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="388" pc="268440139" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="393" pc="268440214" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="394" pc="268440222" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="395" pc="268440258" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="397" pc="268440301" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="398" pc="268440337" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="401" pc="268440372" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="402" pc="268440386" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="403" pc="268440422" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="405" pc="268440471" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="406" pc="268440507" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="410" pc="268440542" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="411" pc="268440559" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="412" pc="268440591" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="415" pc="268440637" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="416" pc="268440673" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="417" pc="268440728" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="418" pc="268440764" symbol="drawValues"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="423" pc="268440820" symbol="computeAverageSpeed"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="424" pc="268440824" symbol="computeAverageSpeed"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="425" pc="268440831" symbol="computeAverageSpeed"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="426" pc="268440844" symbol="computeAverageSpeed"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="427" pc="268440851" symbol="computeAverageSpeed"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="428" pc="268440875" symbol="computeAverageSpeed"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="429" pc="268440885" symbol="computeAverageSpeed"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="430" pc="268440895" symbol="computeAverageSpeed"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="433" pc="268440921" symbol="computeAverageSpeed"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="434" pc="268440932" symbol="computeAverageSpeed"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="436" pc="268440941" symbol="computeAverageSpeed"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="439" pc="268440948" symbol="computeHour"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="440" pc="268440952" symbol="computeHour"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="441" pc="268440963" symbol="computeHour"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="443" pc="268440975" symbol="computeHour"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="444" pc="268440986" symbol="computeHour"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="446" pc="268440998" symbol="computeHour"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="450" pc="268441002" symbol="toNumberCeil"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="451" pc="268441006" symbol="toNumberCeil"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="452" pc="268441019" symbol="toNumberCeil"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="453" pc="268441033" symbol="toNumberCeil"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="455" pc="268441045" symbol="toNumberCeil"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="458" pc="268441049" symbol="getMinutesPerKmOrMile"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="459" pc="268441053" symbol="getMinutesPerKmOrMile"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="460" pc="268441074" symbol="getMinutesPerKmOrMile"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="461" pc="268441084" symbol="getMinutesPerKmOrMile"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="462" pc="268441097" symbol="getMinutesPerKmOrMile"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="463" pc="268441110" symbol="getMinutesPerKmOrMile"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="464" pc="268441123" symbol="getMinutesPerKmOrMile"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="466" pc="268441166" symbol="getMinutesPerKmOrMile"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="481" pc="268441176" symbol="initialize"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="482" pc="268441180" symbol="initialize"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="483" pc="268441191" symbol="initialize"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="487" pc="268441202" symbol="add"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="488" pc="268441206" symbol="add"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="489" pc="268441225" symbol="add"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="493" pc="268441257" symbol="reset"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="494" pc="268441261" symbol="reset"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="495" pc="268441291" symbol="reset"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="497" pc="268441316" symbol="reset"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="501" pc="268441330" symbol="getData"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldView.mc" lineNum="502" pc="268441334" symbol="getData"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldBackground.mc" lineNum="9" pc="268441344" symbol="initialize"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldBackground.mc" lineNum="10" pc="268441348" symbol="initialize"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldBackground.mc" lineNum="14" pc="268441369" symbol="initialize"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldBackground.mc" lineNum="17" pc="268441390" symbol="setColor"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldBackground.mc" lineNum="18" pc="268441394" symbol="setColor"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldBackground.mc" lineNum="21" pc="268441405" symbol="draw"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldBackground.mc" lineNum="22" pc="268441409" symbol="draw"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldBackground.mc" lineNum="23" pc="268441441" symbol="draw"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldApp.mc" lineNum="5" pc="268441454" symbol="initialize"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldApp.mc" lineNum="6" pc="268441458" symbol="initialize"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldApp.mc" lineNum="10" pc="268441477" symbol="onStart"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldApp.mc" lineNum="14" pc="268441482" symbol="onStop"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldApp.mc" lineNum="18" pc="268441487" symbol="getInitialView"/>
+<entry filename="C:\\Users\\massonm\\workspace\\CoureurField\\source\\CoureurFieldApp.mc" lineNum="19" pc="268441491" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="25" pc="268441529" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="27" pc="268441533" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="28" pc="268441557" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="29" pc="268441720" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="30" pc="268441745" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="31" pc="268441797" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="32" pc="268441843" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="33" pc="268442006" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="34" pc="268442031" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="35" pc="268442083" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268442129" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="47" pc="268442167" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="49" pc="268442171" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="50" pc="268442195" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="51" pc="268442328" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="54" pc="268442461" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="63" pc="268442499" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="65" pc="268442503" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="66" pc="268442527" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="67" pc="268442660" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="70" pc="268442793" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="79" pc="268442831" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="81" pc="268442835" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="82" pc="268442859" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="83" pc="268442992" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="86" pc="268443125" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="95" pc="268443163" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="97" pc="268443167" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="98" pc="268443191" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="99" pc="268443324" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="102" pc="268443457" symbol="BottomRightLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="75" method="true" symbol="computeHour"/>
+<entry id="8388644" symbol="System"/>
+<entry id="46" symbol="paceData30"/>
+<entry id="16" method="true" symbol="getData"/>
+<entry id="69" symbol="vMoy"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="77" method="true" symbol="getMinutesPerKmOrMile"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="58" symbol="distLapCourant"/>
+<entry field="true" id="29" symbol="avgpace"/>
+<entry id="39" symbol="inactiveGpsBackground"/>
+<entry field="true" id="26" symbol="pace"/>
+<entry id="65" symbol="ascension"/>
+<entry id="21" method="true" symbol="TopLeftLayout"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="48" symbol="doUpdates"/>
+<entry id="44" symbol="headerColor"/>
+<entry id="51" symbol="compteurLap"/>
+<entry id="40" symbol="batteryBackground"/>
+<entry id="66" symbol="computeAvgSpeed"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="8389138" symbol="label"/>
+<entry id="72" method="true" symbol="setColors"/>
+<entry id="23" method="true" symbol="BottomLeftLayout"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="50" symbol="gpsSignal"/>
+<entry id="8388639" symbol="Graphics"/>
+<entry id="36" symbol="textColor"/>
+<entry id="20" method="true" symbol="MainLayout"/>
+<entry id="8388751" symbol="averageCadence"/>
+<entry id="62" symbol="speedLapKMH"/>
+<entry id="8389401" symbol="is24Hour"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="61" symbol="speedLap"/>
+<entry id="8389627" symbol="getBackgroundColor"/>
+<entry id="9" object="true" symbol="CoureurView"/>
+<entry id="30" symbol="CENTER"/>
+<entry id="52" symbol="compteurLapAff"/>
+<entry id="32" symbol="VALUE_FONT"/>
+<entry id="8389130" symbol="mColor"/>
+<entry id="70" symbol="hasBackgroundColorOption"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry id="8389807" symbol="data"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="27" symbol="AppName"/>
+<entry id="12" object="true" symbol="CoureurFieldApp"/>
+<entry field="true" id="8388935" symbol="duration"/>
+<entry id="67" symbol="computeAvgSpeed3s"/>
+<entry id="47" symbol="paceData3"/>
+<entry id="64" symbol="lapSup1"/>
+<entry id="54" symbol="distLapStr"/>
+<entry id="63" symbol="changeScreen"/>
+<entry id="11" object="true" symbol="Background"/>
+<entry field="true" id="28" symbol="lappace"/>
+<entry field="true" id="19" symbol="LauncherIcon"/>
+<entry id="10" object="true" symbol="DataQueue"/>
+<entry id="76" method="true" symbol="toNumberCeil"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="41" symbol="batteryColor1"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388750" symbol="currentCadence"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="13" symbol="maxSize"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8388732" symbol="elapsedTime"/>
+<entry id="31" symbol="HEADER_FONT"/>
+<entry id="38" symbol="inverseBackgroundColor"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8388942" method="true" symbol="add"/>
+<entry id="74" method="true" symbol="computeAverageSpeed"/>
+<entry id="37" symbol="inverseTextColor"/>
+<entry id="22" method="true" symbol="TopRightLayout"/>
+<entry id="8" object="true" symbol="CoureurField"/>
+<entry id="8389348" symbol="font"/>
+<entry id="60" symbol="speedCourant"/>
+<entry id="8389743" symbol="backgroundColor"/>
+<entry id="8389347" symbol="color"/>
+<entry id="43" symbol="lapColor"/>
+<entry id="56" symbol="timeLap"/>
+<entry id="8389846" symbol="type"/>
+<entry id="34" symbol="ZERO_DISTANCE"/>
+<entry id="33" symbol="ZERO_TIME"/>
+<entry id="45" symbol="paceData"/>
+<entry id="15" method="true" symbol="reset"/>
+<entry id="8388752" symbol="maxCadence"/>
+<entry field="true" id="8388911" symbol="distance"/>
+<entry id="55" symbol="durationLap"/>
+<entry id="18" module="true" symbol="Layouts"/>
+<entry id="42" symbol="hrColor"/>
+<entry id="8389402" symbol="distanceUnits"/>
+<entry id="24" method="true" symbol="BottomRightLayout"/>
+<entry id="14" symbol="pos"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="57" symbol="timeLapTmp"/>
+<entry id="59" symbol="timeLapCourant"/>
+<entry id="49" symbol="avgSpeed"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="71" method="true" symbol="setDeviceSettingsDependentVariables"/>
+<entry id="73" method="true" symbol="drawValues"/>
+<entry id="17" module="true" symbol="Menus"/>
+<entry id="68" symbol="computeAvgSpeed30s"/>
+<entry id="8389751" method="true" symbol="onTimerLap"/>
+<entry field="true" id="25" symbol="hr"/>
+<entry id="53" symbol="distLap"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="35" symbol="kmOrMileInMeters"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435501" name="view" stackId="1" startPc="268435460"/>
+<entry endPc="268436644" name="timeLapSecond" stackId="2" startPc="268436572"/>
+<entry endPc="268439049" name="distanceKmOrMiles" stackId="11" startPc="268438986"/>
+<entry endPc="268439379" name="hours" stackId="14" startPc="268439195"/>
+<entry endPc="268439379" name="minutes" stackId="15" startPc="268439195"/>
+<entry endPc="268439379" name="seconds" stackId="16" startPc="268439195"/>
+<entry endPc="268440819" name="time" stackId="3" startPc="268437510"/>
+<entry endPc="268440819" name="clockTime" stackId="2" startPc="268437510"/>
+<entry endPc="268440819" name="duration" stackId="12" startPc="268437510"/>
+<entry endPc="268440819" name="distEtude" stackId="10" startPc="268437510"/>
+<entry endPc="268440819" name="computeAvgSpeed" stackId="6" startPc="268437510"/>
+<entry endPc="268440819" name="computeAvgSpeed30s" stackId="8" startPc="268437510"/>
+<entry endPc="268440819" name="battery" stackId="5" startPc="268437510"/>
+<entry endPc="268440819" name="timeEtude" stackId="13" startPc="268437510"/>
+<entry endPc="268440819" name="ampm" stackId="4" startPc="268437510"/>
+<entry endPc="268440819" name="computeAvgSpeed3s" stackId="7" startPc="268437510"/>
+<entry endPc="268440819" name="distStr" stackId="9" startPc="268437510"/>
+<entry endPc="268440921" name="i" stackId="5" startPc="268440875"/>
+<entry endPc="268440947" name="size" stackId="2" startPc="268440824"/>
+<entry endPc="268440947" name="data" stackId="3" startPc="268440824"/>
+<entry endPc="268440947" name="sumOfData" stackId="4" startPc="268440824"/>
+<entry endPc="268441048" name="floor" stackId="2" startPc="268441006"/>
+<entry endPc="268441163" name="minutesPerKmOrMilesFloor" stackId="4" startPc="268441074"/>
+<entry endPc="268441163" name="metersPerMinute" stackId="2" startPc="268441074"/>
+<entry endPc="268441163" name="seconds" stackId="5" startPc="268441074"/>
+<entry endPc="268441163" name="minutesPerKmOrMilesDecimal" stackId="3" startPc="268441074"/>
+<entry endPc="268441316" name="i" stackId="1" startPc="268441291"/>
+<entry endPc="268441389" name="dictionary" stackId="1" startPc="268441348"/>
+<entry endPc="268442166" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268441533"/>
+<entry endPc="268442166" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268441533"/>
+<entry endPc="268442166" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268441533"/>
+<entry endPc="268442166" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268441533"/>
+<entry endPc="268442166" name="rez_cmp_local_custom_drawable_QS9IQ2EXTOGO1XY4TXDR" stackId="2" startPc="268441533"/>
+<entry endPc="268442498" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268442171"/>
+<entry endPc="268442498" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268442171"/>
+<entry endPc="268442498" name="rez_cmp_local_custom_drawable_MF1DWM561TQMDEHN94W3" stackId="2" startPc="268442171"/>
+<entry endPc="268442830" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268442503"/>
+<entry endPc="268442830" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268442503"/>
+<entry endPc="268442830" name="rez_cmp_local_custom_drawable_DM853DY12UOYPGUBUTBR" stackId="2" startPc="268442503"/>
+<entry endPc="268443162" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268442835"/>
+<entry endPc="268443162" name="rez_cmp_local_custom_drawable_K4XLSZ0W4K9X9WPNK1U3" stackId="2" startPc="268442835"/>
+<entry endPc="268443162" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268442835"/>
+<entry endPc="268443494" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268443167"/>
+<entry endPc="268443494" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268443167"/>
+<entry endPc="268443494" name="rez_cmp_local_custom_drawable_L1IUZT4MLRT2HJ5NOPV3" stackId="2" startPc="268443167"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="getInitialView" parent="CoureurField">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="CoureurView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerLap" parent="CoureurView">
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="CoureurView">
+<param id="info"/>
+<documentation><![CDATA[<div class="description"> The given info object contains all the current workout<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="CoureurView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="CoureurView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="CoureurView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="CoureurView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="setDeviceSettingsDependentVariables" parent="CoureurView">
+<documentation/>
+</functionEntry>
+<functionEntry name="setColors" parent="CoureurView">
+<documentation/>
+</functionEntry>
+<functionEntry name="drawValues" parent="CoureurView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="computeAverageSpeed" parent="CoureurView">
+<param id="tableau"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="computeHour" parent="CoureurView">
+<param id="hour"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="toNumberCeil" parent="CoureurView">
+<param id="float"/>
+<documentation><![CDATA[<div class="description"> convert to integer - round ceiling<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getMinutesPerKmOrMile" parent="CoureurView">
+<param id="speedMetersPerSecond"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DataQueue">
+<param id="arraySize"/>
+<documentation><![CDATA[<div class="description"> precondition: size has to be >= 2<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="add" parent="DataQueue">
+<param id="element"/>
+<documentation><![CDATA[<div class="description"> Add an element to the queue.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="reset" parent="DataQueue">
+<documentation><![CDATA[<div class="description"> Reset the queue to its initial state.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getData" parent="DataQueue">
+<documentation><![CDATA[<div class="description"> Get the underlying data array.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="setColor" parent="Background">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="CoureurFieldApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="CoureurFieldApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="CoureurFieldApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="CoureurFieldApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="TopLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="TopRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="BottomLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="BottomRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
